@@ -4,11 +4,9 @@ import './App.css';
 class App extends Component {
 render (){   
   return (
-      <div className="conteinerEdit">
-
-      </div>
+        
     );
   }
 }
 
-export default App;
+export default aboutme;
