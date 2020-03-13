@@ -6,11 +6,13 @@ import './App.css';
 class App extends Component {
 render (){   
   return (
-      <div className="containerEdit">
-        <div className="boxs">
-          <Aboutme />
-        </div>  
-      </div>
+      <div className="box1">
+        <div className="secondContainer">
+          <div className="containerEdit">
+              <Aboutme />
+            </div>
+        </div>
+      </div>      
     )
   }
 }

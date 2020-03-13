@@ -4,12 +4,20 @@
   display: flex;
   justify-content: center;
   text-align: center;
-}
-.boxs{
+  margin-left: 15%;
+  margin-right:15%;
   padding: 20px 30px;
-  margin: auto;
-  background-color: whitesmoke;
-  margin-left: 250px;
-  margin-right:250px;
+  margin-top: 200px;
 }
-
+.secondContainer{
+  background-color: rgb(240,240,240);
+}
+.box1{
+  height: 200px;
+  width: 100%;
+  background-image: url("Aboutme/wasser.jpg");
+  background-size: cover;
+  background-position: center;
+  display: table;
+  background-attachment: fixed;
+}

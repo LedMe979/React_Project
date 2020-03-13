@@ -11,7 +11,15 @@ render (){
                 <p>{AboutmeDetail.text}</p>
               </div>
           })}
+        <div>
+          {aboutData.map((AboutmeDetail, index)=>{
+             return<div>
+                <hr></hr>
+                <p>{AboutmeDetail.text}</p>
+              </div>
+          })}
         </div>
+      </div>  
     )
   }
 }
