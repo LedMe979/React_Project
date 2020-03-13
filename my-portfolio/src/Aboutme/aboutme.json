@@ -1,5 +1,14 @@
 [
     {
         "text" : "Hello My name is Mehmed and i'm from montenegro but i am born here and have been going to school for a while and chose informatics because i'm interested in how everything works and how everything is programmed, what is fascinating and also interesting what process is behind it."
+    },
+    {
+        "number": 20
+    },
+    {
+        "number2": "3TPIF1"
+    },
+    {
+        "number3": 4
     }
 ]

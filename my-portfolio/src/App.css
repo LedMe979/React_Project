@@ -13,7 +13,7 @@
   background-color: rgb(240,240,240);
 }
 .box1{
-  height: 200px;
+  height: ;
   width: 100%;
   background-image: url("Aboutme/wasser.jpg");
   background-size: cover;
@@ -21,3 +21,15 @@
   display: table;
   background-attachment: fixed;
 }
+.boxModel{
+  background-color: rgb(224,224,224);
+  border: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 40px;
+}
+
