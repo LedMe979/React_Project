@@ -1,8 +1,15 @@
 .containerEdit{
-  background-color: red;
+  background-color: rgb(240,240,240);
   margin: auto;
   display: flex;
   justify-content: center;
   text-align: center;
+}
+.boxs{
+  padding: 20px 30px;
+  margin: auto;
+  background-color: whitesmoke;
+  margin-left: 250px;
+  margin-right:250px;
 }
 
